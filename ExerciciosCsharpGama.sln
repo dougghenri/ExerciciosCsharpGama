@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosCsharpGama", "ExerciciosCsharpGama\ExerciciosCsharpGama.csproj", "{D8C8F51B-8572-489A-BB0C-D1C48EC693CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8C8F51B-8572-489A-BB0C-D1C48EC693CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C8F51B-8572-489A-BB0C-D1C48EC693CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C8F51B-8572-489A-BB0C-D1C48EC693CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C8F51B-8572-489A-BB0C-D1C48EC693CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EF8BA2F-2F73-4295-9BB9-50140A279F42}
+	EndGlobalSection
+EndGlobal
